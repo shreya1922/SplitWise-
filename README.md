@@ -1,4 +1,4 @@
-# Expense Splitter App
+#Bill Splitting App
 
 A simple web app to track shared expenses, split bills, and settle debts efficiently. Built with React and Firebase.
 
